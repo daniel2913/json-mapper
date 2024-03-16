@@ -1,0 +1,25 @@
+[
+{
+	"car":{
+		"engine":"fast",
+		"brakes":"don't work",
+		"wheels":4,
+		"passangers":[
+				[
+			"Bob",
+			42
+				],
+				[
+			"Alice",
+			69
+				]
+		]
+	}
+	
+},
+{
+	"car":{
+		"engine":"none"
+	}
+}
+]	

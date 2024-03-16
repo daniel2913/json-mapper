@@ -1,0 +1,19 @@
+[
+{
+	"name":"Devin",
+	"age":42
+},
+{
+	"name":"J'son",
+	"age":30
+},
+{
+	"name":"HAL9000",
+	"mood":"Fruity",
+	"exes": ["100","200","300"],
+	"connections":{
+		"enemies":["Dave","Some other guy","Some other guy"],
+		"friends":["Some cosmic force"]
+	}
+}
+]
